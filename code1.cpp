@@ -2,5 +2,5 @@
 void main()
 {
 cout<<"HELLO WORLD...";
-cout<<"MY NAME IS KIRTI SINHA."
+cout<<"MY NAME IS KIRTI SINHA"
 }
